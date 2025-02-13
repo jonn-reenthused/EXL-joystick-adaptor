@@ -1,2 +1,2 @@
 # EXL-joystick-adaptor
-A joystick adaptor for the Exelvision EXL-100 computer that allows an Atari standard joystick to be used in place of the original infrared ones.
+moved to https://codeberg.org/Jonn-reenthused/EXL-joystick-adaptor
